@@ -1,6 +1,6 @@
 ## Hello!
 
-I am a UX Engineer currently at [SparkPost](https://www.sparkpost.com) working on [Matchbox](https://github.com/sparkpost/matchbox/) – our design system.
+I am a Lead UX Engineer currently at [SparkPost](https://www.sparkpost.com) working on [Matchbox](https://github.com/sparkpost/matchbox/) – our design system.
 
 Some other side projects to check out:
 
