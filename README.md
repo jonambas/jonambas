@@ -1,10 +1,10 @@
 ## Hello!
 
-I am a Lead UX Engineer currently at [SparkPost](https://www.sparkpost.com) working on [Matchbox](https://github.com/sparkpost/matchbox/) – our design system.
+I am a Lead UX Engineer currently at [MessageBird](https://messagebird.com/en/) working on design systems.
 
-Some other side projects to check out:
+Some projects to check out:
 
-- [Proply](https://github.com/jonambas/proply) - A tool that helps explore your app's React components
-- [Sweatpants](https://github.com/jonambas/sweatpants) - A tiny component library built on styled-system
+- [Matchbox](https://github.com/sparkpost/matchbox/) – SparkPost's design system
+- [react-delver](https://github.com/jonambas/react-delver) – A design systems JSX analysis tool
 - [Libby](https://github.com/SparkPost/libby-react) - A React component dev & testing environment
-- [Sketch Reporter](https://github.com/jonambas/sketch-reporter) - A UI Kit coverage reporter for Sketch
+- [Sweatpants](https://github.com/jonambas/sweatpants) - A personal and tiny component library built on styled-system
