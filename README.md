@@ -1,6 +1,6 @@
 ## Hello!
 
-I am a Lead UX Engineer currently at [MessageBird](https://messagebird.com/en/) working on design systems.
+I am a Lead UX Engineer currently at [SparkPost](https://www.sparkpost.com/) & [MessageBird](https://messagebird.com/en/) working on design systems.
 
 Some projects to check out:
 
